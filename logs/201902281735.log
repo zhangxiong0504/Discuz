@@ -1,0 +1,15 @@
+2019-02-28 17:35:42,975-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 17:35:42,975-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 17:35:45,633-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 17:35:46,996-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 17:35:48,137-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 17:35:48,139-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 17:35:48,171-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 17:35:48,268-BasePage-INFO-输入的内容admin
+2019-02-28 17:35:48,300-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 17:35:48,387-BasePage-INFO-输入的内容zx980504
+2019-02-28 17:35:48,417-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 17:35:48,470-BasePage-INFO-Success The element was click
+2019-02-28 17:35:51,497-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 17:35:51,523-BasePage-INFO-找到的文本admin
+2019-02-28 17:35:51,523-BrowserEngine-INFO-Now,Close and quit the browser

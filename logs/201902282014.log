@@ -1,0 +1,22 @@
+2019-02-28 20:14:57,050-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 20:14:57,050-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 20:15:00,067-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 20:15:01,724-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 20:15:02,841-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 20:15:02,842-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 20:15:02,878-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 20:15:02,995-BasePage-INFO-输入的内容admin
+2019-02-28 20:15:03,028-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 20:15:03,147-BasePage-INFO-输入的内容zx980504
+2019-02-28 20:15:03,189-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 20:15:03,270-BasePage-INFO-Success The element was click
+2019-02-28 20:15:06,299-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 20:15:06,324-BasePage-INFO-找到的文本admin
+2019-02-28 20:15:06,325-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'text'
+2019-02-28 20:15:09,329-BasePage-INFO-Success switch to window
+2019-02-28 20:15:09,358-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 20:15:09,751-BasePage-INFO-Success The element was click
+2019-02-28 20:15:12,757-BasePage-INFO-Success switch to window
+2019-02-28 20:15:15,787-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-28 20:15:15,812-BasePage-INFO-找到的文本
+2019-02-28 20:15:15,813-BrowserEngine-INFO-Now,Close and quit the browser

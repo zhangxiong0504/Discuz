@@ -1,0 +1,21 @@
+2019-02-28 20:35:50,415-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 20:35:50,415-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 20:35:53,400-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 20:35:54,827-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 20:35:55,955-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 20:35:55,956-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 20:35:55,991-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 20:35:56,111-BasePage-INFO-输入的内容admin
+2019-02-28 20:35:56,148-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 20:35:56,248-BasePage-INFO-输入的内容zx980504
+2019-02-28 20:35:56,282-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 20:35:56,343-BasePage-INFO-Success The element was click
+2019-02-28 20:35:59,376-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 20:35:59,403-BasePage-INFO-找到的文本admin
+2019-02-28 20:36:02,409-BasePage-INFO-Success switch to window
+2019-02-28 20:36:02,444-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 20:36:03,007-BasePage-INFO-Success The element was click
+2019-02-28 20:36:06,011-BasePage-INFO-Success switch to window
+2019-02-28 20:36:09,041-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-28 20:36:09,066-BasePage-INFO-找到的文本
+2019-02-28 20:36:09,066-BrowserEngine-INFO-Now,Close and quit the browser

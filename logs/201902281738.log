@@ -1,0 +1,44 @@
+2019-02-28 17:38:17,015-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 17:38:17,016-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 17:38:20,353-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 17:38:22,275-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 17:38:23,399-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 17:38:23,400-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 17:38:23,438-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 17:38:23,559-BasePage-INFO-输入的内容admin
+2019-02-28 17:38:23,594-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 17:38:23,693-BasePage-INFO-输入的内容zx980504
+2019-02-28 17:38:23,725-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 17:38:23,786-BasePage-INFO-Success The element was click
+2019-02-28 17:38:26,815-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 17:38:26,840-BasePage-INFO-找到的文本admin
+2019-02-28 17:38:26,840-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 17:38:29,845-BasePage-INFO-Success switch to window
+2019-02-28 17:38:29,872-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 17:38:30,309-BasePage-INFO-Success The element was click
+2019-02-28 17:38:33,313-BasePage-INFO-Success switch to window
+2019-02-28 17:38:33,342-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-28 17:38:34,047-BasePage-INFO-Success The element was click
+2019-02-28 17:38:37,052-BasePage-INFO-Success switch to window
+2019-02-28 17:38:37,094-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-28 17:38:37,376-BasePage-INFO-输入的内容title
+2019-02-28 17:38:37,419-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-28 17:38:37,459-BasePage-INFO-Success into inframe
+2019-02-28 17:38:37,493-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-28 17:38:37,719-BasePage-INFO-输入的内容hello
+2019-02-28 17:38:37,725-BasePage-INFO-Success switch to window
+2019-02-28 17:38:37,763-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-28 17:38:37,921-BasePage-INFO-Success The element was click
+2019-02-28 17:38:40,924-BasePage-INFO-Success switch to window
+2019-02-28 17:38:40,954-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-28 17:38:41,010-BasePage-INFO-Success The element was click
+2019-02-28 17:38:44,014-BasePage-INFO-Success switch to window
+2019-02-28 17:38:44,041-BasePage-INFO-找到页面元素--('id', 'postmessage')
+2019-02-28 17:38:44,118-BasePage-INFO-输入的内容hello
+2019-02-28 17:38:47,122-BasePage-INFO-Success switch to window
+2019-02-28 17:38:47,143-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-28 17:38:47,488-BasePage-INFO-Success The element was click
+2019-02-28 17:38:50,493-BasePage-INFO-Success switch to window
+2019-02-28 17:38:53,561-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-28 17:38:53,932-BasePage-INFO-Success The element was click
+2019-02-28 17:38:53,932-BrowserEngine-INFO-Now,Close and quit the browser

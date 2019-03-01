@@ -1,0 +1,42 @@
+2019-02-27 19:49:55,598-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 19:49:55,598-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 19:49:58,784-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 19:50:00,203-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 19:50:01,336-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 19:50:01,338-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 19:50:01,372-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 19:50:01,493-BasePage-INFO-输入的内容admin
+2019-02-27 19:50:01,526-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 19:50:01,625-BasePage-INFO-输入的内容zx980504
+2019-02-27 19:50:01,664-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 19:50:01,728-BasePage-INFO-Success The element was click
+2019-02-27 19:50:04,737-BasePage-INFO-Success switch to window
+2019-02-27 19:50:04,777-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 19:50:05,164-BasePage-INFO-Success The element was click
+2019-02-27 19:50:05,309-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 19:50:05,343-BasePage-INFO-Success find float 
+2019-02-27 19:50:05,376-BasePage-INFO-找到页面元素--('css selector', '.poll a')
+2019-02-27 19:50:05,881-BasePage-INFO-Success The element was click
+2019-02-27 19:50:05,891-BasePage-INFO-Success switch to window
+2019-02-27 19:50:05,946-BasePage-INFO-找到页面元素--('id', 'subject')
+2019-02-27 19:50:06,108-BasePage-INFO-输入的内容最喜欢吃什么？
+2019-02-27 19:50:06,171-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-27 19:50:06,283-BasePage-INFO-输入的内容苹果
+2019-02-27 19:50:06,323-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-27 19:50:06,417-BasePage-INFO-输入的内容香蕉
+2019-02-27 19:50:06,448-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-27 19:50:06,537-BasePage-INFO-输入的内容橘子
+2019-02-27 19:50:06,570-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 19:50:06,704-BasePage-INFO-Success The element was click
+2019-02-27 19:50:06,711-BasePage-INFO-Success switch to window
+2019-02-27 19:50:09,046-BasePage-INFO-找到页面元素--('css selector', '#option_1')
+2019-02-27 19:50:09,115-BasePage-INFO-Success The element was click
+2019-02-27 19:50:19,685-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035E5B70>页面中找不到('id', 'subject')元素
+2019-02-27 19:50:19,971-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 19:50:19,971-BasePage-ERROR-
+2019-02-27 19:50:30,502-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035E5B70>页面中找不到('css selector', '#pollm_c_1 > p:nth-child(1) > input')元素
+2019-02-27 19:50:31,020-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 19:50:31,020-BasePage-ERROR-
+2019-02-27 19:50:31,053-BasePage-INFO-找到页面元素--('css selector', '.pcht  tbody > tr:nth-child(2) > td:nth-child(2)')
+2019-02-27 19:50:31,084-BasePage-ERROR-
+2019-02-27 19:50:37,599-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035E5B70>页面中找不到('css selector', '#pollm_c_1 > p:nth-child(2) > input')元素

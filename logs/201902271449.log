@@ -1,0 +1,45 @@
+2019-02-27 14:49:24,058-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 14:49:24,058-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 14:49:26,726-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 14:49:28,962-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 14:49:30,134-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 14:49:30,136-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 14:49:30,175-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 14:49:30,296-BasePage-INFO-输入的内容admin
+2019-02-27 14:49:30,327-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 14:49:30,425-BasePage-INFO-输入的内容zx980504
+2019-02-27 14:49:30,458-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 14:49:30,519-BasePage-INFO-Success The element was click
+2019-02-27 14:49:31,006-BasePage-INFO-找到页面元素--('css selector', '#um > p:nth-child(2) > a:nth-child(16)')
+2019-02-27 14:49:31,116-BasePage-INFO-Success The element was click
+2019-02-27 14:49:42,670-BasePage-ERROR-<pageobjects.into_manage.Into_Manage object at 0x0000000003546C50>页面中找不到('name', 'admin_password')元素
+2019-02-27 14:49:42,964-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 14:49:42,965-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 14:49:53,482-BasePage-ERROR-<pageobjects.into_manage.Into_Manage object at 0x0000000003546C50>页面中找不到('name', 'submit')元素
+2019-02-27 14:49:53,769-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 14:49:53,769-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 14:49:53,775-BasePage-INFO-Success switch to window
+2019-02-27 14:49:53,805-BasePage-INFO-找到页面元素--('id', 'header_forum')
+2019-02-27 14:49:54,051-BasePage-INFO-Success The element was click
+2019-02-27 14:49:54,084-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 14:49:54,120-BasePage-INFO-Success into inframe
+2019-02-27 14:49:54,153-BasePage-INFO-找到页面元素--('css selector', '.addtr')
+2019-02-27 14:49:54,272-BasePage-INFO-Success The element was click
+2019-02-27 14:50:04,831-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x0000000003546A90>页面中找不到('link text', '新版块名称')元素
+2019-02-27 14:50:05,162-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 14:50:05,162-BasePage-ERROR-Failed to clear is input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 14:50:15,684-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x0000000003546A90>页面中找不到('link text', '新版块名称')元素
+2019-02-27 14:50:15,967-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 14:50:15,967-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 14:50:15,998-BasePage-INFO-找到页面元素--('name', 'editsubmit')
+2019-02-27 14:50:16,287-BasePage-INFO-Success The element was click
+2019-02-27 14:50:16,329-BasePage-INFO-Closeing  on current page.
+2019-02-27 14:50:22,417-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-27 14:50:22,688-BasePage-INFO-Success The element was click
+2019-02-27 14:50:24,906-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 14:50:25,021-BasePage-INFO-输入的内容zhangxiong
+2019-02-27 14:50:25,050-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 14:50:25,144-BasePage-INFO-输入的内容zx980504
+2019-02-27 14:50:25,173-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 14:50:25,235-BasePage-INFO-Success The element was click
+2019-02-27 14:50:25,235-BrowserEngine-INFO-Now,Close and quit the browser

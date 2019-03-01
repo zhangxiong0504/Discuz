@@ -1,0 +1,24 @@
+2019-02-27 11:01:00,858-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 11:01:00,858-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 11:01:03,950-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 11:01:05,840-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 11:01:07,001-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 11:01:07,008-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 11:01:07,085-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 11:01:07,214-BasePage-INFO-输入的内容admin
+2019-02-27 11:01:07,248-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 11:01:07,336-BasePage-INFO-输入的内容zx980504
+2019-02-27 11:01:07,367-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 11:01:07,420-BasePage-INFO-Success The element was click
+2019-02-27 11:01:10,425-BasePage-INFO-Success switch to window
+2019-02-27 11:01:10,456-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 11:01:10,946-BasePage-INFO-Success The element was click
+2019-02-27 11:01:11,049-BasePage-INFO-找到页面元素--('name', 'moderate[]')
+2019-02-27 11:01:11,114-BasePage-INFO-Success The element was click
+2019-02-27 11:01:11,121-BasePage-INFO-Success switch to window
+2019-02-27 11:01:11,182-BasePage-INFO-找到页面元素--('xpath', "//div[@id='mdly']/p/strong/a")
+2019-02-27 11:01:11,442-BasePage-INFO-Success The element was click
+2019-02-27 11:01:11,449-BasePage-INFO-Success switch to window
+2019-02-27 11:01:11,484-BasePage-INFO-找到页面元素--('name', 'modsubmit')
+2019-02-27 11:01:12,045-BasePage-INFO-Success The element was click
+2019-02-27 11:01:12,046-BrowserEngine-INFO-Now,Close and quit the browser

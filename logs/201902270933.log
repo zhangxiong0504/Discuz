@@ -1,0 +1,53 @@
+2019-02-27 09:33:51,671-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 09:33:51,672-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 09:33:54,851-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 09:33:56,531-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 09:33:57,704-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 09:33:57,706-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 09:34:00,769-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 09:34:00,883-BasePage-INFO-输入的内容admin
+2019-02-27 09:34:00,911-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 09:34:00,994-BasePage-INFO-输入的内容zx980504
+2019-02-27 09:34:01,027-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 09:34:01,100-BasePage-INFO-The element 登录 was click
+2019-02-27 09:34:04,115-BasePage-INFO-Success switch to window
+2019-02-27 09:34:04,174-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 09:34:04,684-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 09:34:07,689-BasePage-INFO-Success switch to window
+2019-02-27 09:34:07,725-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 09:34:08,104-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 09:34:11,117-BasePage-INFO-Success switch to window
+2019-02-27 09:34:11,169-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-27 09:34:11,277-BasePage-INFO-输入的内容title
+2019-02-27 09:34:11,306-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 09:34:11,341-BasePage-INFO-Success into inframe
+2019-02-27 09:34:11,366-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 09:34:11,460-BasePage-INFO-输入的内容hello
+2019-02-27 09:34:11,466-BasePage-INFO-Success switch to window
+2019-02-27 09:34:11,495-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 09:34:11,636-BasePage-INFO-The element 发表帖子 was click
+2019-02-27 09:34:14,642-BasePage-INFO-Success switch to window
+2019-02-27 09:34:14,672-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-27 09:34:14,758-BasePage-INFO-The element  was click
+2019-02-27 09:34:17,770-BasePage-INFO-Success switch to window
+2019-02-27 09:34:17,840-BasePage-INFO-找到页面元素--('id', 'postmessage')
+2019-02-27 09:34:17,938-BasePage-INFO-输入的内容hello
+2019-02-27 09:34:20,948-BasePage-INFO-Success switch to window
+2019-02-27 09:34:20,982-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 09:34:21,246-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 09:34:24,297-BasePage-INFO-Success switch to window
+2019-02-27 09:34:24,421-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-27 09:34:24,706-BasePage-ERROR-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 09:34:24,706-BrowserEngine-INFO-Now,Close and quit the browser

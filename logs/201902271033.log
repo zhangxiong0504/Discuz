@@ -1,0 +1,30 @@
+2019-02-27 10:33:48,609-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 10:33:48,609-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 10:33:51,102-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 10:33:52,433-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 10:33:53,596-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 10:33:53,600-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 10:33:53,655-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 10:33:53,774-BasePage-INFO-输入的内容admin
+2019-02-27 10:33:53,805-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 10:33:53,893-BasePage-INFO-输入的内容zx980504
+2019-02-27 10:33:53,923-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 10:33:53,973-BasePage-INFO-Success The element was click
+2019-02-27 10:33:56,978-BasePage-INFO-Success switch to window
+2019-02-27 10:33:57,010-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 10:33:57,337-BasePage-INFO-Success The element was click
+2019-02-27 10:34:00,342-BasePage-INFO-Success switch to window
+2019-02-27 10:34:00,376-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 10:34:00,817-BasePage-INFO-Success The element was click
+2019-02-27 10:34:03,822-BasePage-INFO-Success switch to window
+2019-02-27 10:34:03,853-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-27 10:34:04,008-BasePage-INFO-输入的内容title
+2019-02-27 10:34:04,065-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 10:34:04,116-BasePage-INFO-Success into inframe
+2019-02-27 10:34:04,151-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 10:34:04,278-BasePage-INFO-输入的内容hello
+2019-02-27 10:34:04,286-BasePage-INFO-Success switch to window
+2019-02-27 10:34:04,317-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 10:34:04,483-BasePage-INFO-Success The element was click
+2019-02-27 10:34:07,491-BasePage-INFO-Success switch to window
+2019-02-27 10:34:07,491-BrowserEngine-INFO-Now,Close and quit the browser

@@ -1,0 +1,71 @@
+2019-02-27 15:21:19,993-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 15:21:19,993-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 15:21:23,236-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 15:21:25,032-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 15:21:26,166-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 15:21:26,168-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 15:21:26,209-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 15:21:26,347-BasePage-INFO-输入的内容admin
+2019-02-27 15:21:26,396-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 15:21:26,514-BasePage-INFO-输入的内容zx980504
+2019-02-27 15:21:26,553-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 15:21:26,619-BasePage-INFO-Success The element was click
+2019-02-27 15:21:27,129-BasePage-INFO-找到页面元素--('css selector', '#um > p:nth-child(2) > a:nth-child(16)')
+2019-02-27 15:21:27,296-BasePage-INFO-Success The element was click
+2019-02-27 15:21:38,901-BasePage-ERROR-<pageobjects.into_manage.Into_Manage object at 0x00000000035D6E80>页面中找不到('name', 'admin_password')元素
+2019-02-27 15:21:39,217-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 15:21:39,217-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 15:21:49,770-BasePage-ERROR-<pageobjects.into_manage.Into_Manage object at 0x00000000035D6E80>页面中找不到('name', 'submit')元素
+2019-02-27 15:21:50,078-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 15:21:50,078-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 15:21:50,084-BasePage-INFO-Success switch to window
+2019-02-27 15:21:50,117-BasePage-INFO-找到页面元素--('id', 'header_forum')
+2019-02-27 15:21:50,369-BasePage-INFO-Success The element was click
+2019-02-27 15:21:50,415-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 15:21:50,453-BasePage-INFO-Success into inframe
+2019-02-27 15:21:50,487-BasePage-INFO-找到页面元素--('css selector', '.addtr')
+2019-02-27 15:21:50,612-BasePage-INFO-Success The element was click
+2019-02-27 15:21:50,654-BasePage-INFO-找到页面元素--('name', 'newforum[1][]')
+2019-02-27 15:21:50,687-BasePage-INFO-Clear test is input box before typeing
+2019-02-27 15:21:50,710-BasePage-INFO-找到页面元素--('name', 'newforum[1][]')
+2019-02-27 15:21:50,790-BasePage-INFO-输入的内容dh
+2019-02-27 15:21:50,824-BasePage-INFO-找到页面元素--('name', 'editsubmit')
+2019-02-27 15:21:51,082-BasePage-INFO-Success The element was click
+2019-02-27 15:21:51,111-BasePage-INFO-Closeing  on current page.
+2019-02-27 15:21:57,194-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-27 15:21:57,472-BasePage-INFO-Success The element was click
+2019-02-27 15:21:59,693-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 15:21:59,834-BasePage-INFO-输入的内容zhangxiong
+2019-02-27 15:21:59,868-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 15:21:59,960-BasePage-INFO-输入的内容zx980504
+2019-02-27 15:21:59,991-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 15:22:00,054-BasePage-INFO-Success The element was click
+2019-02-27 15:22:03,065-BasePage-INFO-Success switch to window
+2019-02-27 15:22:03,114-BasePage-INFO-找到页面元素--('css selector', '#category_1  table tbody > tr:nth-child(2) > td:nth-child(2)  h2 a')
+2019-02-27 15:22:03,855-BasePage-INFO-Success The element was click
+2019-02-27 15:22:06,884-BasePage-INFO-Success switch to window
+2019-02-27 15:22:06,929-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 15:22:08,271-BasePage-INFO-Success The element was click
+2019-02-27 15:22:11,280-BasePage-INFO-Success switch to window
+2019-02-27 15:22:11,333-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-27 15:22:11,439-BasePage-INFO-输入的内容title
+2019-02-27 15:22:11,472-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 15:22:11,509-BasePage-INFO-Success into inframe
+2019-02-27 15:22:11,542-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 15:22:11,712-BasePage-INFO-输入的内容helloghgh565646464
+2019-02-27 15:22:11,719-BasePage-INFO-Success switch to window
+2019-02-27 15:22:11,749-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 15:22:11,877-BasePage-INFO-Success The element was click
+2019-02-27 15:22:14,886-BasePage-INFO-Success switch to window
+2019-02-27 15:22:14,935-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-27 15:22:14,997-BasePage-INFO-Success The element was click
+2019-02-27 15:22:18,009-BasePage-INFO-Success switch to window
+2019-02-27 15:22:18,060-BasePage-INFO-找到页面元素--('id', 'postmessage')
+2019-02-27 15:22:18,192-BasePage-INFO-输入的内容hellodsdsa
+2019-02-27 15:22:21,206-BasePage-INFO-Success switch to window
+2019-02-27 15:22:21,253-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 15:22:21,527-BasePage-INFO-Success The element was click
+2019-02-27 15:22:24,556-BasePage-INFO-Success switch to window
+2019-02-27 15:22:27,623-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-27 15:22:27,879-BasePage-INFO-Success The element was click
+2019-02-27 15:22:27,879-BrowserEngine-INFO-Now,Close and quit the browser

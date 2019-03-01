@@ -1,0 +1,56 @@
+2019-02-28 19:34:42,049-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 19:34:42,049-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 19:34:45,145-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 19:34:46,397-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 19:34:47,518-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 19:34:47,520-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 19:34:47,553-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 19:34:47,672-BasePage-INFO-输入的内容admin
+2019-02-28 19:34:47,706-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 19:34:47,819-BasePage-INFO-输入的内容zx980504
+2019-02-28 19:34:47,854-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 19:34:47,915-BasePage-INFO-Success The element was click
+2019-02-28 19:34:50,943-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 19:34:50,970-BasePage-INFO-找到的文本admin
+2019-02-28 19:34:50,970-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 19:34:53,975-BasePage-INFO-Success switch to window
+2019-02-28 19:34:54,006-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 19:34:54,549-BasePage-INFO-Success The element was click
+2019-02-28 19:34:57,554-BasePage-INFO-Success switch to window
+2019-02-28 19:35:00,582-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-28 19:35:00,607-BasePage-INFO-找到的文本
+2019-02-28 19:35:00,607-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 19:35:00,625-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-28 19:35:01,061-BasePage-INFO-Success The element was click
+2019-02-28 19:35:04,069-BasePage-INFO-Success switch to window
+2019-02-28 19:35:04,096-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-28 19:35:04,121-BasePage-INFO-找到的文本发表帖子
+2019-02-28 19:35:04,121-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 19:35:04,151-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-28 19:35:04,297-BasePage-INFO-输入的内容title
+2019-02-28 19:35:04,327-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-28 19:35:04,360-BasePage-INFO-Success into inframe
+2019-02-28 19:35:04,386-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-28 19:35:04,485-BasePage-INFO-输入的内容hello
+2019-02-28 19:35:04,491-BasePage-INFO-Success switch to window
+2019-02-28 19:35:04,514-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-28 19:35:04,653-BasePage-INFO-Success The element was click
+2019-02-28 19:35:14,863-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-28 19:35:14,888-BasePage-INFO-找到的文本
+2019-02-28 19:35:14,888-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 19:35:14,914-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-28 19:35:14,934-BasePage-INFO-找到的文本
+2019-02-28 19:35:14,935-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 19:35:17,939-BasePage-INFO-Success switch to window
+2019-02-28 19:35:17,955-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-28 19:35:18,007-BasePage-INFO-Success The element was click
+2019-02-28 19:35:21,011-BasePage-INFO-Success switch to window
+2019-02-28 19:35:21,038-BasePage-INFO-找到页面元素--('id', 'postmessage')
+2019-02-28 19:35:21,114-BasePage-INFO-输入的内容hello
+2019-02-28 19:35:24,118-BasePage-INFO-Success switch to window
+2019-02-28 19:35:24,145-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-28 19:35:24,418-BasePage-INFO-Success The element was click
+2019-02-28 19:35:27,422-BasePage-INFO-Success switch to window
+2019-02-28 19:35:30,475-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-28 19:35:30,711-BasePage-INFO-Success The element was click
+2019-02-28 19:35:30,711-BrowserEngine-INFO-Now,Close and quit the browser

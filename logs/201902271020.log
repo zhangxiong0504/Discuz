@@ -1,0 +1,34 @@
+2019-02-27 10:20:05,301-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 10:20:05,301-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 10:20:08,464-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 10:20:11,047-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 10:20:12,224-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 10:20:12,225-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 10:20:12,261-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 10:20:12,360-BasePage-INFO-输入的内容admin
+2019-02-27 10:20:12,389-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 10:20:12,475-BasePage-INFO-输入的内容zx980504
+2019-02-27 10:20:12,506-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 10:20:12,560-BasePage-INFO-Success The element was click
+2019-02-27 10:20:12,591-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 10:20:13,021-BasePage-INFO-Success The element was click
+2019-02-27 10:20:16,025-BasePage-INFO-Success switch to window
+2019-02-27 10:20:26,596-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C4CC0>页面中找不到('xpath', "//div[@id='pgt']/a")元素
+2019-02-27 10:20:26,893-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 10:20:26,893-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 10:20:29,903-BasePage-INFO-Success switch to window
+2019-02-27 10:20:40,437-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C4CC0>页面中找不到('name', 'subject')元素
+2019-02-27 10:20:40,746-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 10:20:40,746-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 10:20:40,787-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 10:20:40,821-BasePage-INFO-Success into inframe
+2019-02-27 10:20:40,847-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 10:20:40,872-BasePage-ERROR-Failed to type in input box with Message: invalid element state: Element must be user-editable in order to clear it.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 10:20:40,876-BasePage-INFO-Success switch to window
+2019-02-27 10:20:51,390-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C4CC0>页面中找不到('id', 'postsubmit')元素
+2019-02-27 10:20:51,679-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 10:20:51,679-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 10:20:51,679-BrowserEngine-INFO-Now,Close and quit the browser

@@ -1,0 +1,20 @@
+2019-02-28 19:31:00,264-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 19:31:00,264-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 19:31:03,032-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 19:31:04,644-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 19:31:05,763-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 19:31:05,764-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 19:31:05,795-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 19:31:05,904-BasePage-INFO-输入的内容admin
+2019-02-28 19:31:05,936-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 19:31:06,021-BasePage-INFO-输入的内容zx980504
+2019-02-28 19:31:06,051-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 19:31:06,107-BasePage-INFO-Success The element was click
+2019-02-28 19:31:09,142-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 19:31:09,175-BasePage-INFO-找到的文本admin
+2019-02-28 19:31:09,175-BasePage-ERROR-text is not equal with except_value'str' object has no attribute 'assertEqual'
+2019-02-28 19:31:12,179-BasePage-INFO-Success switch to window
+2019-02-28 19:31:12,207-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 19:31:12,637-BasePage-INFO-Success The element was click
+2019-02-28 19:31:15,641-BasePage-INFO-Success switch to window
+2019-02-28 19:31:18,641-BrowserEngine-INFO-Now,Close and quit the browser

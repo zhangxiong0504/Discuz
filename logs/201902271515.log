@@ -1,0 +1,50 @@
+2019-02-27 15:15:04,655-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 15:15:04,655-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 15:15:08,449-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 15:15:09,616-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 15:15:10,755-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 15:15:10,757-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 15:15:10,795-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 15:15:10,918-BasePage-INFO-输入的内容admin
+2019-02-27 15:15:10,957-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 15:15:11,071-BasePage-INFO-输入的内容zx980504
+2019-02-27 15:15:11,103-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 15:15:11,166-BasePage-INFO-Success The element was click
+2019-02-27 15:15:14,182-BasePage-INFO-Success switch to window
+2019-02-27 15:15:14,230-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 15:15:14,569-BasePage-INFO-Success The element was click
+2019-02-27 15:15:25,101-BasePage-ERROR-<pageobjects.delete.Delete object at 0x00000000035C8E48>页面中找不到('name', 'moderate[]')元素
+2019-02-27 15:15:25,414-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 15:15:25,414-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 15:15:25,421-BasePage-INFO-Success switch to window
+2019-02-27 15:15:28,770-BasePage-ERROR-<pageobjects.delete.Delete object at 0x00000000035C8E48>页面中找不到('xpath', "//div[@id='mdly']/p/strong/a")元素
+2019-02-27 15:15:41,386-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 15:15:41,386-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 15:15:44,233-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 15:15:47,297-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 15:15:48,425-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 15:15:48,427-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 15:15:48,467-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 15:15:48,583-BasePage-INFO-输入的内容admin
+2019-02-27 15:15:48,615-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 15:15:48,718-BasePage-INFO-输入的内容zx980504
+2019-02-27 15:15:48,753-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 15:15:48,812-BasePage-INFO-Success The element was click
+2019-02-27 15:15:51,817-BasePage-INFO-Success switch to window
+2019-02-27 15:15:51,857-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 15:15:52,264-BasePage-INFO-Success The element was click
+2019-02-27 15:15:55,271-BasePage-INFO-Success switch to window
+2019-02-27 15:15:55,309-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 15:15:55,738-BasePage-INFO-Success The element was click
+2019-02-27 15:15:58,750-BasePage-INFO-Success switch to window
+2019-02-27 15:15:58,804-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-27 15:15:58,987-BasePage-INFO-输入的内容title
+2019-02-27 15:15:59,019-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 15:15:59,054-BasePage-INFO-Success into inframe
+2019-02-27 15:15:59,082-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 15:15:59,183-BasePage-INFO-输入的内容hello
+2019-02-27 15:15:59,188-BasePage-INFO-Success switch to window
+2019-02-27 15:15:59,222-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 15:15:59,351-BasePage-INFO-Success The element was click
+2019-02-27 15:16:02,361-BasePage-INFO-Success switch to window
+2019-02-27 15:16:45,702-BasePage-ERROR-<pageobjects.reply.Reply object at 0x00000000035968D0>页面中找不到('id', 'post_reply')元素

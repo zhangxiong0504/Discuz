@@ -1,0 +1,39 @@
+2019-02-27 10:18:04,949-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 10:18:04,949-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 10:18:08,301-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 10:18:10,388-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 10:18:11,549-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 10:18:11,550-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 10:18:11,584-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 10:18:11,686-BasePage-INFO-输入的内容admin
+2019-02-27 10:18:11,715-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 10:18:11,795-BasePage-INFO-输入的内容zx980504
+2019-02-27 10:18:11,825-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 10:18:11,875-BasePage-INFO-Success The element was click
+2019-02-27 10:18:11,904-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 10:18:12,346-BasePage-INFO-Success The element was click
+2019-02-27 10:18:15,350-BasePage-INFO-Success switch to window
+2019-02-27 10:18:25,889-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035D4CC0>页面中找不到('xpath', "//div[@id='pgt']/a")元素
+2019-02-27 10:18:26,194-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 10:18:26,194-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 10:18:29,199-BasePage-INFO-Success switch to window
+2019-02-27 10:18:39,762-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035D4CC0>页面中找不到('name', 'subject')元素
+2019-02-27 10:18:40,199-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 10:18:40,199-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 10:18:44,164-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035D4CC0>页面中找不到('tag name', 'iframe')元素
+2019-02-27 10:18:46,717-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 10:18:46,717-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 10:18:49,326-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 10:18:51,072-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 10:18:52,303-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 10:18:52,305-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 10:18:52,336-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 10:18:52,438-BasePage-INFO-输入的内容admin
+2019-02-27 10:18:52,472-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 10:18:52,561-BasePage-INFO-输入的内容zx980504
+2019-02-27 10:18:52,591-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 10:18:52,648-BasePage-INFO-Success The element was click
+2019-02-27 10:18:52,680-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 10:18:53,518-BasePage-INFO-Success The element was click
+2019-02-27 10:18:56,523-BasePage-INFO-Success switch to window
+2019-02-27 10:19:04,099-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B6DD8>页面中找不到('xpath', "//div[@id='pgt']/a")元素

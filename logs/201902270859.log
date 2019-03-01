@@ -1,0 +1,52 @@
+2019-02-27 08:59:10,175-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 08:59:10,175-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 08:59:15,203-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 08:59:18,707-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 08:59:19,849-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 08:59:19,850-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 08:59:22,896-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 08:59:23,026-BasePage-INFO-输入的内容admin
+2019-02-27 08:59:23,056-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 08:59:23,144-BasePage-INFO-输入的内容zx980504
+2019-02-27 08:59:23,170-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 08:59:23,235-BasePage-INFO-The element 登录 was click
+2019-02-27 08:59:26,242-BasePage-INFO-Success switch to window
+2019-02-27 08:59:26,286-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 08:59:27,605-BasePage-INFO-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 08:59:30,615-BasePage-INFO-Success switch to window
+2019-02-27 08:59:30,668-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 08:59:31,439-BasePage-INFO-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 08:59:34,450-BasePage-INFO-Success switch to window
+2019-02-27 08:59:34,502-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-27 08:59:34,603-BasePage-INFO-输入的内容title
+2019-02-27 08:59:34,633-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 08:59:34,642-BasePage-INFO-Failed into inframeframe() got an unexpected keyword argument 'el'
+2019-02-27 08:59:34,680-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 08:59:34,707-BasePage-ERROR-Failed to type in input box with Message: invalid element state: Element must be user-editable in order to clear it.
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 08:59:34,733-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 08:59:34,857-BasePage-INFO-The element 发表帖子 was click
+2019-02-27 08:59:37,894-BasePage-INFO-Success switch to window
+2019-02-27 08:59:48,447-BasePage-ERROR-<pageobjects.discuz_homepage.HomePage object at 0x00000000035954A8>页面中找不到('id', 'post_reply')元素
+2019-02-27 08:59:48,879-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 08:59:48,879-BasePage-INFO-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 08:59:51,889-BasePage-INFO-Success switch to window
+2019-02-27 09:00:02,477-BasePage-ERROR-<pageobjects.discuz_homepage.HomePage object at 0x00000000035954A8>页面中找不到('id', 'postmessage')元素
+2019-02-27 09:00:02,906-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 09:00:02,906-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 09:00:02,934-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 09:00:03,036-BasePage-INFO-The element 发表帖子 was click
+2019-02-27 09:00:03,093-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-27 09:00:03,398-BasePage-INFO-Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 09:00:03,398-BrowserEngine-INFO-Now,Close and quit the browser

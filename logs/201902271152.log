@@ -1,0 +1,49 @@
+2019-02-27 11:52:15,921-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 11:52:15,921-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 11:52:18,924-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 11:52:20,939-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 11:52:22,061-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 11:52:22,063-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 11:52:22,101-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 11:52:22,223-BasePage-INFO-输入的内容admin
+2019-02-27 11:52:22,265-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 11:52:22,377-BasePage-INFO-输入的内容zx980504
+2019-02-27 11:52:22,417-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 11:52:22,475-BasePage-INFO-Success The element was click
+2019-02-27 11:52:25,480-BasePage-INFO-Success switch to window
+2019-02-27 11:52:25,512-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 11:52:25,868-BasePage-INFO-Success The element was click
+2019-02-27 11:52:25,972-BasePage-INFO-找到页面元素--('name', 'moderate[]')
+2019-02-27 11:52:26,061-BasePage-INFO-Success The element was click
+2019-02-27 11:52:26,068-BasePage-INFO-Success switch to window
+2019-02-27 11:52:26,119-BasePage-INFO-找到页面元素--('xpath', "//div[@id='mdly']/p/strong/a")
+2019-02-27 11:52:26,315-BasePage-INFO-Success The element was click
+2019-02-27 11:52:26,331-BasePage-INFO-Success switch to window
+2019-02-27 11:52:26,369-BasePage-INFO-找到页面元素--('name', 'modsubmit')
+2019-02-27 11:52:26,825-BasePage-INFO-Success The element was click
+2019-02-27 11:52:26,863-BasePage-INFO-找到页面元素--('css selector', '#um > p:nth-child(2) > a:nth-child(16)')
+2019-02-27 11:52:27,002-BasePage-INFO-Success The element was click
+2019-02-27 11:52:27,027-BasePage-INFO-Success switch to window
+2019-02-27 11:52:37,596-BasePage-ERROR-<pageobjects.into_manage.Into_Manage object at 0x0000000003594C50>页面中找不到('name', 'admin_password')元素
+2019-02-27 11:52:37,886-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:52:37,886-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 11:52:48,436-BasePage-ERROR-<pageobjects.into_manage.Into_Manage object at 0x0000000003594C50>页面中找不到('name', 'submit')元素
+2019-02-27 11:52:48,889-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:52:48,889-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 11:52:48,894-BasePage-INFO-Success switch to window
+2019-02-27 11:52:59,454-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x00000000035C63C8>页面中找不到('id', 'header_forum')元素
+2019-02-27 11:52:59,879-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:52:59,879-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 11:53:10,399-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x00000000035C63C8>页面中找不到('css selector', '.addtr')元素
+2019-02-27 11:53:10,812-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:53:10,812-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 11:53:21,365-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x00000000035C63C8>页面中找不到('name', 'newforum[1][]')元素
+2019-02-27 11:53:21,784-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:53:21,784-BasePage-ERROR-Failed to clear is input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 11:53:32,310-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x00000000035C63C8>页面中找不到('name', 'newforum[1][]')元素
+2019-02-27 11:53:32,685-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:53:32,685-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 11:53:43,200-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x00000000035C63C8>页面中找不到('name', 'editsubmit')元素
+2019-02-27 11:53:43,517-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 11:53:43,517-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 11:53:43,517-BrowserEngine-INFO-Now,Close and quit the browser

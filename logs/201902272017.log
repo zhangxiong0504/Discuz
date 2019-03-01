@@ -1,0 +1,36 @@
+2019-02-27 20:17:26,824-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 20:17:26,825-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 20:17:30,032-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 20:17:32,063-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 20:17:33,191-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 20:17:33,193-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 20:17:33,237-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 20:17:33,368-BasePage-INFO-输入的内容admin
+2019-02-27 20:17:33,409-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 20:17:33,531-BasePage-INFO-输入的内容zx980504
+2019-02-27 20:17:33,565-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 20:17:33,637-BasePage-INFO-Success The element was click
+2019-02-27 20:17:36,642-BasePage-INFO-Success switch to window
+2019-02-27 20:17:36,681-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 20:17:37,123-BasePage-INFO-Success The element was click
+2019-02-27 20:17:37,227-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 20:17:37,289-BasePage-INFO-Success find float 
+2019-02-27 20:17:37,322-BasePage-INFO-找到页面元素--('css selector', '.poll a')
+2019-02-27 20:17:37,823-BasePage-INFO-Success The element was click
+2019-02-27 20:17:37,833-BasePage-INFO-Success switch to window
+2019-02-27 20:17:51,410-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035D7B70>页面中找不到('css selector', '#thread_subject')元素
+2019-02-27 20:17:51,718-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:17:51,718-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 20:17:51,750-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-27 20:17:51,848-BasePage-INFO-输入的内容苹果
+2019-02-27 20:17:51,881-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-27 20:17:51,961-BasePage-INFO-输入的内容香蕉
+2019-02-27 20:17:51,991-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-27 20:17:52,068-BasePage-INFO-输入的内容橘子
+2019-02-27 20:17:52,099-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 20:17:52,220-BasePage-INFO-Success The element was click
+2019-02-27 20:17:52,228-BasePage-INFO-Success switch to window
+2019-02-27 20:18:02,811-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035D7B70>页面中找不到('css selector', '#option_1')元素
+2019-02-27 20:18:03,284-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:18:03,284-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 20:18:03,285-BrowserEngine-INFO-Now,Close and quit the browser

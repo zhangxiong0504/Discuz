@@ -1,0 +1,60 @@
+2019-02-28 10:43:59,091-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 10:43:59,092-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 10:44:02,130-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 10:44:03,875-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 10:44:05,026-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 10:44:05,028-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 10:44:05,059-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 10:44:05,146-BasePage-INFO-输入的内容admin
+2019-02-28 10:44:05,174-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 10:44:05,256-BasePage-INFO-输入的内容zx980504
+2019-02-28 10:44:05,284-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 10:44:05,331-BasePage-INFO-Success The element was click
+2019-02-28 10:44:08,341-BasePage-INFO-Success switch to window
+2019-02-28 10:44:08,371-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 10:44:08,691-BasePage-INFO-Success The element was click
+2019-02-28 10:44:08,739-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-28 10:44:08,860-BasePage-INFO-Success find float 
+2019-02-28 10:44:08,885-BasePage-INFO-找到页面元素--('css selector', '.poll a')
+2019-02-28 10:44:09,280-BasePage-INFO-Success The element was click
+2019-02-28 10:44:09,287-BasePage-INFO-Success switch to window
+2019-02-28 10:44:12,348-BasePage-INFO-找到页面元素--('id', 'subject')
+2019-02-28 10:44:12,533-BasePage-INFO-输入的内容最喜欢吃什么？
+2019-02-28 10:44:12,561-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-28 10:44:12,634-BasePage-INFO-输入的内容苹果
+2019-02-28 10:44:12,661-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-28 10:44:12,725-BasePage-INFO-输入的内容香蕉
+2019-02-28 10:44:12,749-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-28 10:44:12,815-BasePage-INFO-输入的内容橘子
+2019-02-28 10:44:12,843-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-28 10:44:12,959-BasePage-INFO-Success The element was click
+2019-02-28 10:44:12,965-BasePage-INFO-Success switch to window
+2019-02-28 10:44:14,025-BasePage-INFO-找到页面元素--('css selector', '#option_1')
+2019-02-28 10:44:14,096-BasePage-INFO-Success The element was click
+2019-02-28 10:44:14,127-BasePage-INFO-找到页面元素--('css selector', '#pollsubmit')
+2019-02-28 10:44:14,724-BasePage-INFO-Success The element was click
+2019-02-28 10:44:14,783-BasePage-INFO-找到页面元素--('css selector', '#thread_subject')
+2019-02-28 10:44:14,810-BasePage-ERROR-
+2019-02-28 10:44:14,863-BasePage-INFO-找到页面元素--('css selector', '.pvt')
+2019-02-28 10:44:14,967-BasePage-INFO-找到页面元素--('css selector', '.pcht  tbody > tr > td:nth-child(2)')
+2019-02-28 10:44:14,983-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B8CC0>页面中找不到(<selenium.webdriver.remote.webelement.WebElement (session="b7915438cfd53a449b0be3f7deaab63f", element="0.7443986819401678-2")>,)元素
+2019-02-28 10:44:15,294-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-28 10:44:15,294-BasePage-ERROR-
+2019-02-28 10:44:15,298-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B8CC0>页面中找不到(<selenium.webdriver.remote.webelement.WebElement (session="b7915438cfd53a449b0be3f7deaab63f", element="0.7443986819401678-5")>,)元素
+2019-02-28 10:44:15,621-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-28 10:44:15,621-BasePage-ERROR-
+2019-02-28 10:44:15,625-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B8CC0>页面中找不到(<selenium.webdriver.remote.webelement.WebElement (session="b7915438cfd53a449b0be3f7deaab63f", element="0.7443986819401678-3")>,)元素
+2019-02-28 10:44:15,928-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-28 10:44:15,928-BasePage-ERROR-
+2019-02-28 10:44:15,932-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B8CC0>页面中找不到(<selenium.webdriver.remote.webelement.WebElement (session="b7915438cfd53a449b0be3f7deaab63f", element="0.7443986819401678-6")>,)元素
+2019-02-28 10:44:16,222-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-28 10:44:16,222-BasePage-ERROR-
+2019-02-28 10:44:16,226-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B8CC0>页面中找不到(<selenium.webdriver.remote.webelement.WebElement (session="b7915438cfd53a449b0be3f7deaab63f", element="0.7443986819401678-4")>,)元素
+2019-02-28 10:44:16,528-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-28 10:44:16,528-BasePage-ERROR-
+2019-02-28 10:44:16,532-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035B8CC0>页面中找不到(<selenium.webdriver.remote.webelement.WebElement (session="b7915438cfd53a449b0be3f7deaab63f", element="0.7443986819401678-7")>,)元素
+2019-02-28 10:44:16,831-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-28 10:44:16,831-BasePage-ERROR-
+2019-02-28 10:44:19,885-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-28 10:44:20,083-BasePage-INFO-Success The element was click
+2019-02-28 10:44:20,083-BrowserEngine-INFO-Now,Close and quit the browser

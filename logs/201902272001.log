@@ -1,0 +1,54 @@
+2019-02-27 20:01:24,676-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 20:01:24,677-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 20:01:27,882-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 20:01:29,486-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 20:01:30,618-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 20:01:30,620-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 20:01:30,662-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 20:01:30,779-BasePage-INFO-输入的内容admin
+2019-02-27 20:01:30,814-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 20:01:30,913-BasePage-INFO-输入的内容zx980504
+2019-02-27 20:01:30,947-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 20:01:31,006-BasePage-INFO-Success The element was click
+2019-02-27 20:01:34,011-BasePage-INFO-Success switch to window
+2019-02-27 20:01:34,044-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 20:01:34,564-BasePage-INFO-Success The element was click
+2019-02-27 20:01:34,614-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 20:01:34,646-BasePage-INFO-Success find float 
+2019-02-27 20:01:34,677-BasePage-INFO-找到页面元素--('css selector', '.poll a')
+2019-02-27 20:01:35,128-BasePage-INFO-Success The element was click
+2019-02-27 20:01:35,135-BasePage-INFO-Success switch to window
+2019-02-27 20:01:38,169-BasePage-INFO-找到页面元素--('id', 'subject')
+2019-02-27 20:01:38,390-BasePage-INFO-输入的内容最喜欢吃什么？
+2019-02-27 20:01:38,421-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-02-27 20:01:38,517-BasePage-INFO-输入的内容苹果
+2019-02-27 20:01:38,550-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-02-27 20:01:38,634-BasePage-INFO-输入的内容香蕉
+2019-02-27 20:01:38,665-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-02-27 20:01:38,737-BasePage-INFO-输入的内容橘子
+2019-02-27 20:01:38,766-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 20:01:38,898-BasePage-INFO-Success The element was click
+2019-02-27 20:01:38,908-BasePage-INFO-Success switch to window
+2019-02-27 20:01:42,999-BasePage-INFO-找到页面元素--('css selector', '#option_1')
+2019-02-27 20:01:43,079-BasePage-INFO-Success The element was click
+2019-02-27 20:01:53,633-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C7B70>页面中找不到('id', 'subject')元素
+2019-02-27 20:01:53,910-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:01:53,910-BasePage-ERROR-
+2019-02-27 20:02:04,436-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C7B70>页面中找不到('css selector', '#pollm_c_1 > p:nth-child(1) > input')元素
+2019-02-27 20:02:04,726-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:02:04,726-BasePage-ERROR-
+2019-02-27 20:02:04,760-BasePage-INFO-找到页面元素--('css selector', '.pcht  tbody > tr:nth-child(2) > td:nth-child(2)')
+2019-02-27 20:02:04,793-BasePage-ERROR-
+2019-02-27 20:02:15,338-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C7B70>页面中找不到('css selector', '#pollm_c_1 > p:nth-child(2) > input')元素
+2019-02-27 20:02:15,800-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:02:15,800-BasePage-ERROR-
+2019-02-27 20:02:15,836-BasePage-INFO-找到页面元素--('css selector', '.pcht  tbody > tr:nth-child(4) > td:nth-child(2)')
+2019-02-27 20:02:15,870-BasePage-ERROR-
+2019-02-27 20:02:26,400-BasePage-ERROR-<pageobjects.post.Post object at 0x00000000035C7B70>页面中找不到('css selector', '#pollm_c_1 > p:nth-child(3) > input')元素
+2019-02-27 20:02:26,672-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:02:26,672-BasePage-ERROR-
+2019-02-27 20:02:26,710-BasePage-INFO-找到页面元素--('css selector', '.pcht  tbody > tr:nth-child(6) > td:nth-child(2)')
+2019-02-27 20:02:26,749-BasePage-ERROR-
+2019-02-27 20:02:26,781-BasePage-INFO-找到页面元素--('css selector', '#pollsubmit')
+2019-02-27 20:02:27,953-BasePage-INFO-Success The element was click
+2019-02-27 20:02:36,979-BasePage-ERROR-<pageobjects.exit.Exit object at 0x00000000035C7198>页面中找不到('link text', '退出')元素

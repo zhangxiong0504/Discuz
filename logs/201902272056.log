@@ -1,0 +1,46 @@
+2019-02-27 20:56:12,225-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 20:56:12,226-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 20:56:15,444-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 20:56:17,009-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 20:56:18,135-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 20:56:18,137-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 20:56:18,174-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 20:56:18,321-BasePage-INFO-输入的内容admin
+2019-02-27 20:56:18,361-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 20:56:18,468-BasePage-INFO-输入的内容zx980504
+2019-02-27 20:56:18,508-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 20:56:18,581-BasePage-INFO-Success The element was click
+2019-02-27 20:56:21,587-BasePage-INFO-Success switch to window
+2019-02-27 20:56:21,623-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 20:56:22,045-BasePage-INFO-Success The element was click
+2019-02-27 20:56:25,052-BasePage-INFO-Success switch to window
+2019-02-27 20:56:25,090-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-02-27 20:56:25,586-BasePage-INFO-Success The element was click
+2019-02-27 20:56:28,598-BasePage-INFO-Success switch to window
+2019-02-27 20:56:28,649-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-02-27 20:56:28,868-BasePage-INFO-输入的内容title
+2019-02-27 20:56:28,904-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-02-27 20:56:28,944-BasePage-INFO-Success into inframe
+2019-02-27 20:56:28,985-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-02-27 20:56:29,124-BasePage-INFO-输入的内容hello
+2019-02-27 20:56:29,131-BasePage-INFO-Success switch to window
+2019-02-27 20:56:29,165-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-02-27 20:56:29,290-BasePage-INFO-Success The element was click
+2019-02-27 20:56:32,295-BasePage-INFO-Success switch to window
+2019-02-27 20:56:32,341-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-02-27 20:56:32,417-BasePage-ERROR-Failed to click the element with Message: unknown error: Element <a id="post_reply" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=2&tid=39')" href="javascript:;" title="回复">...</a> is not clickable at point (136, 16). Other element would receive the click: <div id="nv" style="border-left-width: 0px; border-right-width: 0px; height: 33px; width: 1322px; top: 0px; left: 13.4844px; position: fixed; z-index: 199; opacity: 0.85;">...</div>
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-02-27 20:56:35,422-BasePage-INFO-Success switch to window
+2019-02-27 20:56:45,992-BasePage-ERROR-<pageobjects.reply.Reply object at 0x00000000021E9E80>页面中找不到('id', 'postmessage')元素
+2019-02-27 20:56:46,332-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:56:46,333-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-02-27 20:56:49,339-BasePage-INFO-Success switch to window
+2019-02-27 20:56:59,853-BasePage-ERROR-<pageobjects.reply.Reply object at 0x00000000021E9E80>页面中找不到('id', 'postsubmit')元素
+2019-02-27 20:57:00,137-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-02-27 20:57:00,137-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 20:57:03,150-BasePage-INFO-Success switch to window
+2019-02-27 20:57:06,234-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-02-27 20:57:06,495-BasePage-INFO-Success The element was click
+2019-02-27 20:57:06,495-BrowserEngine-INFO-Now,Close and quit the browser

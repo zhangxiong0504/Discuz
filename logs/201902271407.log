@@ -1,0 +1,29 @@
+2019-02-27 14:07:29,925-BrowserEngine-INFO-You has select Chrome browser
+2019-02-27 14:07:29,925-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-27 14:07:35,255-BrowserEngine-INFO-Starting chrome brower
+2019-02-27 14:07:36,710-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-27 14:07:37,918-BrowserEngine-INFO-Maxizize the current window
+2019-02-27 14:07:37,920-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-27 14:07:37,956-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-27 14:07:38,087-BasePage-INFO-输入的内容admin
+2019-02-27 14:07:38,125-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-27 14:07:38,235-BasePage-INFO-输入的内容zx980504
+2019-02-27 14:07:38,270-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-27 14:07:38,337-BasePage-INFO-Success The element was click
+2019-02-27 14:07:41,344-BasePage-INFO-Success switch to window
+2019-02-27 14:07:41,387-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-27 14:07:41,792-BasePage-INFO-Success The element was click
+2019-02-27 14:07:41,891-BasePage-INFO-找到页面元素--('name', 'moderate[]')
+2019-02-27 14:07:41,974-BasePage-INFO-Success The element was click
+2019-02-27 14:07:41,981-BasePage-INFO-Success switch to window
+2019-02-27 14:07:42,029-BasePage-INFO-找到页面元素--('xpath', "//div[@id='mdly']/p/strong/a")
+2019-02-27 14:07:42,236-BasePage-INFO-Success The element was click
+2019-02-27 14:07:42,250-BasePage-INFO-Success switch to window
+2019-02-27 14:07:42,288-BasePage-INFO-找到页面元素--('name', 'modsubmit')
+2019-02-27 14:07:42,793-BasePage-INFO-Success The element was click
+2019-02-27 14:07:42,833-BasePage-INFO-找到页面元素--('css selector', '#um > p:nth-child(2) > a:nth-child(16)')
+2019-02-27 14:07:42,972-BasePage-INFO-Success The element was click
+2019-02-27 14:07:44,059-BasePage-INFO-找到页面元素--('name', 'submit')
+2019-02-27 14:07:44,233-BasePage-INFO-Success The element was click
+2019-02-27 14:07:44,239-BasePage-INFO-Success switch to window
+2019-02-27 14:07:49,592-BasePage-ERROR-<pageobjects.create_mode.Create_Mode object at 0x00000000035CC240>页面中找不到('id', 'header_forum')元素

@@ -1,0 +1,21 @@
+2019-02-28 20:54:39,174-BrowserEngine-INFO-You has select Chrome browser
+2019-02-28 20:54:39,174-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-02-28 20:54:42,076-BrowserEngine-INFO-Starting chrome brower
+2019-02-28 20:54:44,013-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-02-28 20:54:45,194-BrowserEngine-INFO-Maxizize the current window
+2019-02-28 20:54:45,196-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-02-28 20:54:45,236-BasePage-INFO-找到页面元素--('name', 'username')
+2019-02-28 20:54:45,349-BasePage-INFO-输入的内容admin
+2019-02-28 20:54:45,385-BasePage-INFO-找到页面元素--('name', 'password')
+2019-02-28 20:54:45,482-BasePage-INFO-输入的内容zx980504
+2019-02-28 20:54:45,516-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-02-28 20:54:45,576-BasePage-INFO-Success The element was click
+2019-02-28 20:54:48,606-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-02-28 20:54:48,634-BasePage-INFO-找到的文本admin
+2019-02-28 20:54:51,638-BasePage-INFO-Success switch to window
+2019-02-28 20:54:51,665-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-02-28 20:54:52,422-BasePage-INFO-Success The element was click
+2019-02-28 20:54:55,426-BasePage-INFO-Success switch to window
+2019-02-28 20:54:58,452-BasePage-INFO-找到页面元素--('css selector', '.xs2 a')
+2019-02-28 20:54:58,478-BasePage-INFO-找到的文本默认版块
+2019-02-28 20:54:58,478-BrowserEngine-INFO-Now,Close and quit the browser
