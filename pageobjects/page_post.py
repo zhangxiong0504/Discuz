@@ -30,6 +30,9 @@ class Post(BasePage):
     chose=(By.CSS_SELECTOR,"#option_1")
     mr_name=(By.CSS_SELECTOR,".xs2 a")
     reply_title = (By.CSS_SELECTOR, "#thread_subject")
+    mr_mode=(By.CSS_SELECTOR,"#pt div > a:nth-child(7)")
+    mr_mode1=(By.CSS_SELECTOR,"#pt div > a:nth-child(9)")
+    alone_vote=(By.CSS_SELECTOR,".pinf strong")
     def post(self,title,text):
         time.sleep(3)
         self.jihuo()
@@ -66,20 +69,38 @@ class Post(BasePage):
         time.sleep(3)
         self.jihuo()
         self.click(*self.new_button_table)
-        # time.sleep(3)
-        # self.jihuo()
+
+        mr_mode_text = str(self.text(self.find_element(*self.mr_mode)))
+        print(mr_mode_text)
+        self.unit.assertEqual(mr_mode_text, "fd", msg=mr_mode_text)
+
         self.click(*self.home_page_post_search_loc)
         time.sleep(3)
         self.jihuo()
+
+        post_table_name = str(self.text(self.find_element(*self.post_table)))
+        print(post_table_name)
+        self.unit.assertEqual(post_table_name, '发表帖子', msg=post_table_name)
+
         self.sendkeys(title, *self.title)
         self.frame(*self.iframe)
         self.sendkeys(text, *self.text_input)
         self.jihuo()
         self.click(*self.post_table)
+
+        reply_title_name = str(self.text(self.find_element(*self.reply_title)))
+        print(reply_title_name)
+        self.unit.assertEqual(reply_title_name, title, msg=reply_title_name)
+
     def vote_post(self,title,content1,content2,content3):
         time.sleep(3)
         self.jihuo()
         self.click(*self.home_page_mrbutton_search_loc)
+
+        mr_mode_text = str(self.text(self.find_element(*self.mr_mode)))
+        print(mr_mode_text)
+        self.unit.assertEqual(mr_mode_text,"fd", msg=mr_mode_text)
+
         self.float(*self.home_page_post_search_loc )
         self.click(*self.vote_post_click)
         self.jihuo()
@@ -90,7 +111,17 @@ class Post(BasePage):
         self.sendkeys(content3, *self.vote_content3)
         self.click(*self.post_table)
         self.jihuo()
+
+        title_mode_text = str(self.text(self.find_element(*self.mr_mode1)))
+        print(title_mode_text)
+        self.unit.assertEqual(title_mode_text, title, msg=title_mode_text)
+
         self.click(*self.chose)
+
+        alone_vote_text = str(self.text(self.find_element(*self.alone_vote)))
+        print(alone_vote_text)
+        self.unit.assertEqual(alone_vote_text, "单选投票", msg=alone_vote_text)
+
         self.click(*self.vote_submit)
         text=self.find_elements(*self.text_content)
         precent=self.find_elements(*self.text_percent)
