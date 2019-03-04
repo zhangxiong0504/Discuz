@@ -43,7 +43,7 @@ class Post(BasePage):
 
         mr = str(self.text(self.find_element(*self.mr_name)))
         print(mr)
-        self.unit.assertEqual(mr,'默认版块',msg=mr)
+        self.unit.assertEqual(mr,'fd',msg=mr)
 
         self.click(*self.home_page_post_search_loc)
         time.sleep(3)

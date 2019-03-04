@@ -1,0 +1,252 @@
+2019-03-03 20:33:37,361-BrowserEngine-INFO-You has select Chrome browser
+2019-03-03 20:33:37,361-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-03-03 20:33:40,881-BrowserEngine-INFO-Starting chrome brower
+2019-03-03 20:33:42,438-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-03-03 20:33:43,564-BrowserEngine-INFO-Maxizize the current window
+2019-03-03 20:33:43,565-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-03-03 20:33:43,597-BasePage-INFO-找到页面元素--('name', 'username')
+2019-03-03 20:33:43,697-BasePage-INFO-输入的内容admin
+2019-03-03 20:33:43,727-BasePage-INFO-找到页面元素--('name', 'password')
+2019-03-03 20:33:43,806-BasePage-INFO-输入的内容zx980504
+2019-03-03 20:33:43,832-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-03-03 20:33:43,879-BasePage-INFO-Success The element was click
+2019-03-03 20:33:46,941-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-03-03 20:33:46,973-BasePage-INFO-找到的文本admin
+2019-03-03 20:33:49,979-BasePage-INFO-Success switch to window
+2019-03-03 20:33:50,004-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-03-03 20:33:50,421-BasePage-INFO-Success The element was click
+2019-03-03 20:33:53,431-BasePage-INFO-Success switch to window
+2019-03-03 20:33:56,483-BasePage-INFO-找到页面元素--('css selector', '.xs2 a')
+2019-03-03 20:33:56,513-BasePage-INFO-找到的文本fd
+2019-03-03 20:33:56,549-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-03-03 20:33:56,941-BasePage-INFO-Success The element was click
+2019-03-03 20:33:59,952-BasePage-INFO-Success switch to window
+2019-03-03 20:34:00,015-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:34:00,044-BasePage-INFO-找到的文本发表帖子
+2019-03-03 20:34:00,072-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-03-03 20:34:00,218-BasePage-INFO-输入的内容title
+2019-03-03 20:34:00,247-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-03-03 20:34:00,278-BasePage-INFO-Success into inframe
+2019-03-03 20:34:00,302-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-03-03 20:34:00,390-BasePage-INFO-输入的内容hello
+2019-03-03 20:34:00,396-BasePage-INFO-Success switch to window
+2019-03-03 20:34:00,414-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:34:00,533-BasePage-INFO-Success The element was click
+2019-03-03 20:34:02,731-BasePage-INFO-找到页面元素--('css selector', '#thread_subject')
+2019-03-03 20:34:02,764-BasePage-INFO-找到的文本title
+2019-03-03 20:34:05,770-BasePage-INFO-Success switch to window
+2019-03-03 20:34:05,799-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-03-03 20:34:05,851-BasePage-INFO-Success The element was click
+2019-03-03 20:34:08,860-BasePage-INFO-Success switch to window
+2019-03-03 20:34:08,914-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:34:08,948-BasePage-INFO-找到的文本参与/回复主题
+2019-03-03 20:34:08,978-BasePage-INFO-找到页面元素--('id', 'postmessage')
+2019-03-03 20:34:09,059-BasePage-INFO-输入的内容hello
+2019-03-03 20:34:12,068-BasePage-INFO-Success switch to window
+2019-03-03 20:34:12,127-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:34:12,772-BasePage-INFO-Success The element was click
+2019-03-03 20:34:15,798-BasePage-INFO-Success switch to window
+2019-03-03 20:34:18,883-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-03-03 20:34:19,085-BasePage-INFO-Success The element was click
+2019-03-03 20:34:21,795-BasePage-INFO-找到页面元素--('css selector', '#ls_fastloginfield_ctrl')
+2019-03-03 20:34:21,826-BasePage-INFO-找到的文本用户名
+2019-03-03 20:34:21,827-BrowserEngine-INFO-Now,Close and quit the browser
+2019-03-03 20:34:23,964-BrowserEngine-INFO-You has select Chrome browser
+2019-03-03 20:34:23,964-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-03-03 20:34:26,520-BrowserEngine-INFO-Starting chrome brower
+2019-03-03 20:34:27,566-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-03-03 20:34:28,722-BrowserEngine-INFO-Maxizize the current window
+2019-03-03 20:34:28,724-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-03-03 20:34:28,801-BasePage-INFO-找到页面元素--('name', 'username')
+2019-03-03 20:34:28,919-BasePage-INFO-输入的内容admin
+2019-03-03 20:34:28,947-BasePage-INFO-找到页面元素--('name', 'password')
+2019-03-03 20:34:29,025-BasePage-INFO-输入的内容zx980504
+2019-03-03 20:34:29,055-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-03-03 20:34:29,109-BasePage-INFO-Success The element was click
+2019-03-03 20:34:32,134-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-03-03 20:34:32,162-BasePage-INFO-找到的文本admin
+2019-03-03 20:34:35,167-BasePage-INFO-Success switch to window
+2019-03-03 20:34:35,197-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-03-03 20:34:35,552-BasePage-INFO-Success The element was click
+2019-03-03 20:34:35,660-BasePage-INFO-找到页面元素--('name', 'moderate[]')
+2019-03-03 20:34:35,721-BasePage-INFO-Success The element was click
+2019-03-03 20:34:35,726-BasePage-INFO-Success switch to window
+2019-03-03 20:34:35,759-BasePage-INFO-找到页面元素--('css selector', '#mdly h6 span')
+2019-03-03 20:34:35,792-BasePage-INFO-找到的文本选中
+2019-03-03 20:34:35,820-BasePage-INFO-找到页面元素--('xpath', "//div[@id='mdly']/p/strong/a")
+2019-03-03 20:34:36,009-BasePage-INFO-Success The element was click
+2019-03-03 20:34:36,051-BasePage-INFO-找到页面元素--('css selector', '.tpclg h4 span')
+2019-03-03 20:34:36,077-BasePage-INFO-找到的文本操作原因:
+2019-03-03 20:34:36,082-BasePage-INFO-Success switch to window
+2019-03-03 20:34:36,117-BasePage-INFO-找到页面元素--('name', 'modsubmit')
+2019-03-03 20:34:36,652-BasePage-INFO-Success The element was click
+2019-03-03 20:34:36,691-BasePage-INFO-找到页面元素--('css selector', '#um > p:nth-child(2) > a:nth-child(16)')
+2019-03-03 20:34:36,843-BasePage-INFO-Success The element was click
+2019-03-03 20:34:48,520-BasePage-ERROR-<pageobjects.page_into_manage_center.Into_Manage object at 0x00000000035B4B00>页面中找不到('name', 'admin_password')元素
+2019-03-03 20:34:48,865-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-03 20:34:48,866-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-03 20:34:59,400-BasePage-ERROR-<pageobjects.page_into_manage_center.Into_Manage object at 0x00000000035B4B00>页面中找不到('name', 'submit')元素
+2019-03-03 20:34:59,715-BasePage-INFO-Had take screenshot and save to folder:/ screenshots
+2019-03-03 20:34:59,716-BasePage-ERROR-Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-03 20:34:59,744-BasePage-INFO-找到页面元素--('css selector', '#frameuinfo em')
+2019-03-03 20:34:59,770-BasePage-INFO-找到的文本admin
+2019-03-03 20:34:59,775-BasePage-INFO-Success switch to window
+2019-03-03 20:34:59,801-BasePage-INFO-找到页面元素--('id', 'header_forum')
+2019-03-03 20:35:00,032-BasePage-INFO-Success The element was click
+2019-03-03 20:35:00,060-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-03-03 20:35:00,090-BasePage-INFO-Success into inframe
+2019-03-03 20:35:00,118-BasePage-INFO-找到页面元素--('css selector', '.itemtitle h3')
+2019-03-03 20:35:00,142-BasePage-INFO-找到的文本版块管理
+2019-03-03 20:35:00,168-BasePage-INFO-找到页面元素--('css selector', '.addtr')
+2019-03-03 20:35:00,272-BasePage-INFO-Success The element was click
+2019-03-03 20:35:00,305-BasePage-INFO-找到页面元素--('name', 'newforum[1][]')
+2019-03-03 20:35:00,334-BasePage-INFO-Clear test is input box before typeing
+2019-03-03 20:35:00,352-BasePage-INFO-找到页面元素--('name', 'newforum[1][]')
+2019-03-03 20:35:00,427-BasePage-INFO-输入的内容fd
+2019-03-03 20:35:00,457-BasePage-INFO-找到页面元素--('name', 'editsubmit')
+2019-03-03 20:35:00,696-BasePage-INFO-Success The element was click
+2019-03-03 20:35:00,724-BasePage-INFO-Closeing  on current page.
+2019-03-03 20:35:03,801-BasePage-INFO-找到页面元素--('css selector', '#pt div >a:nth-child(5)')
+2019-03-03 20:35:04,077-BasePage-INFO-Success The element was click
+2019-03-03 20:35:04,106-BasePage-INFO-找到页面元素--('css selector', '#category_1 > table tbody > tr:nth-child(2) > td:nth-child(2) > h2 > a')
+2019-03-03 20:35:04,141-BasePage-INFO-找到的文本fd
+2019-03-03 20:35:04,149-BasePage-INFO-Success switch to window
+2019-03-03 20:35:07,229-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-03-03 20:35:07,457-BasePage-INFO-Success The element was click
+2019-03-03 20:35:09,658-BasePage-INFO-找到页面元素--('css selector', '#ls_fastloginfield_ctrl')
+2019-03-03 20:35:09,695-BasePage-INFO-找到的文本用户名
+2019-03-03 20:35:09,723-BasePage-INFO-找到页面元素--('name', 'username')
+2019-03-03 20:35:09,829-BasePage-INFO-输入的内容zhangxiong
+2019-03-03 20:35:09,859-BasePage-INFO-找到页面元素--('name', 'password')
+2019-03-03 20:35:09,937-BasePage-INFO-输入的内容zx980504
+2019-03-03 20:35:09,962-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-03-03 20:35:10,009-BasePage-INFO-Success The element was click
+2019-03-03 20:35:10,408-BasePage-INFO-找到页面元素--('css selector', '.vwmy a')
+2019-03-03 20:35:10,433-BasePage-INFO-找到的文本zhangxiong
+2019-03-03 20:35:13,443-BasePage-INFO-Success switch to window
+2019-03-03 20:35:13,485-BasePage-INFO-找到页面元素--('css selector', '#category_1 > table tbody > tr:nth-child(2) > td:nth-child(2) > h2 > a')
+2019-03-03 20:35:13,734-BasePage-INFO-Success The element was click
+2019-03-03 20:35:13,794-BasePage-INFO-找到页面元素--('css selector', '#pt div > a:nth-child(7)')
+2019-03-03 20:35:13,822-BasePage-INFO-找到的文本fd
+2019-03-03 20:35:13,850-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-03-03 20:35:14,280-BasePage-INFO-Success The element was click
+2019-03-03 20:35:17,292-BasePage-INFO-Success switch to window
+2019-03-03 20:35:17,353-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:35:17,382-BasePage-INFO-找到的文本发表帖子
+2019-03-03 20:35:17,412-BasePage-INFO-找到页面元素--('name', 'subject')
+2019-03-03 20:35:17,541-BasePage-INFO-输入的内容title
+2019-03-03 20:35:17,569-BasePage-INFO-找到页面元素--('tag name', 'iframe')
+2019-03-03 20:35:17,596-BasePage-INFO-Success into inframe
+2019-03-03 20:35:17,619-BasePage-INFO-找到页面元素--('tag name', 'body')
+2019-03-03 20:35:17,714-BasePage-INFO-输入的内容helloworld
+2019-03-03 20:35:17,718-BasePage-INFO-Success switch to window
+2019-03-03 20:35:17,734-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:35:17,862-BasePage-INFO-Success The element was click
+2019-03-03 20:35:20,282-BasePage-INFO-找到页面元素--('css selector', '#thread_subject')
+2019-03-03 20:35:20,316-BasePage-INFO-找到的文本title
+2019-03-03 20:35:23,327-BasePage-INFO-Success switch to window
+2019-03-03 20:35:23,388-BasePage-INFO-找到页面元素--('id', 'post_reply')
+2019-03-03 20:35:23,443-BasePage-INFO-Success The element was click
+2019-03-03 20:35:26,454-BasePage-INFO-Success switch to window
+2019-03-03 20:35:26,501-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:35:26,531-BasePage-INFO-找到的文本参与/回复主题
+2019-03-03 20:35:26,569-BasePage-INFO-找到页面元素--('id', 'postmessage')
+2019-03-03 20:35:26,682-BasePage-INFO-输入的内容nice to meet you
+2019-03-03 20:35:29,693-BasePage-INFO-Success switch to window
+2019-03-03 20:35:29,733-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:35:29,947-BasePage-INFO-Success The element was click
+2019-03-03 20:35:32,968-BasePage-INFO-Success switch to window
+2019-03-03 20:35:36,068-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-03-03 20:35:36,292-BasePage-INFO-Success The element was click
+2019-03-03 20:35:39,051-BasePage-INFO-找到页面元素--('css selector', '#ls_fastloginfield_ctrl')
+2019-03-03 20:35:39,079-BasePage-INFO-找到的文本用户名
+2019-03-03 20:35:39,080-BrowserEngine-INFO-Now,Close and quit the browser
+2019-03-03 20:35:41,304-BrowserEngine-INFO-You has select Chrome browser
+2019-03-03 20:35:41,304-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-03-03 20:35:44,331-BrowserEngine-INFO-Starting chrome brower
+2019-03-03 20:35:45,761-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-03-03 20:35:46,917-BrowserEngine-INFO-Maxizize the current window
+2019-03-03 20:35:46,923-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-03-03 20:35:46,993-BasePage-INFO-找到页面元素--('name', 'username')
+2019-03-03 20:35:47,113-BasePage-INFO-输入的内容admin
+2019-03-03 20:35:47,141-BasePage-INFO-找到页面元素--('name', 'password')
+2019-03-03 20:35:47,225-BasePage-INFO-输入的内容zx980504
+2019-03-03 20:35:47,252-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-03-03 20:35:47,304-BasePage-INFO-Success The element was click
+2019-03-03 20:35:50,373-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-03-03 20:35:50,406-BasePage-INFO-找到的文本admin
+2019-03-03 20:35:53,436-BasePage-INFO-找到页面元素--('name', 'srchtxt')
+2019-03-03 20:35:53,574-BasePage-INFO-输入的内容haotest
+2019-03-03 20:35:53,605-BasePage-INFO-找到页面元素--('name', 'searchsubmit')
+2019-03-03 20:35:53,682-BasePage-INFO-Success The element was click
+2019-03-03 20:35:53,708-BasePage-INFO-Success switch to window
+2019-03-03 20:35:59,802-BasePage-INFO-找到页面元素--('css selector', '.xs3 strong font')
+2019-03-03 20:35:59,830-BasePage-INFO-找到的文本haotest
+2019-03-03 20:35:59,851-BasePage-INFO-找到页面元素--('css selector', '.pbw a font')
+2019-03-03 20:35:59,930-BasePage-INFO-Success The element was click
+2019-03-03 20:35:59,954-BasePage-INFO-Success switch to window
+2019-03-03 20:36:01,037-BasePage-INFO-找到页面元素--('css selector', '#thread_subject')
+2019-03-03 20:36:01,062-BasePage-INFO-找到的文本haotest
+2019-03-03 20:36:04,146-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-03-03 20:36:04,463-BasePage-INFO-Success The element was click
+2019-03-03 20:36:07,098-BasePage-INFO-找到页面元素--('css selector', '#ls_fastloginfield_ctrl')
+2019-03-03 20:36:07,126-BasePage-INFO-找到的文本用户名
+2019-03-03 20:36:07,127-BrowserEngine-INFO-Now,Close and quit the browser
+2019-03-03 20:36:09,262-BrowserEngine-INFO-You has select Chrome browser
+2019-03-03 20:36:09,262-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php.
+2019-03-03 20:36:11,764-BrowserEngine-INFO-Starting chrome brower
+2019-03-03 20:36:13,177-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php.
+2019-03-03 20:36:14,335-BrowserEngine-INFO-Maxizize the current window
+2019-03-03 20:36:14,338-BrowserEngine-INFO-Set impicitly wait 10 seconds
+2019-03-03 20:36:14,372-BasePage-INFO-找到页面元素--('name', 'username')
+2019-03-03 20:36:14,480-BasePage-INFO-输入的内容admin
+2019-03-03 20:36:14,512-BasePage-INFO-找到页面元素--('name', 'password')
+2019-03-03 20:36:14,598-BasePage-INFO-输入的内容zx980504
+2019-03-03 20:36:14,632-BasePage-INFO-找到页面元素--('css selector', '.fastlg_l .pn')
+2019-03-03 20:36:14,687-BasePage-INFO-Success The element was click
+2019-03-03 20:36:17,713-BasePage-INFO-找到页面元素--('css selector', '.vwmy')
+2019-03-03 20:36:17,743-BasePage-INFO-找到的文本admin
+2019-03-03 20:36:20,747-BasePage-INFO-Success switch to window
+2019-03-03 20:36:20,780-BasePage-INFO-找到页面元素--('css selector', '.fl_tb tr td h2 a')
+2019-03-03 20:36:21,104-BasePage-INFO-Success The element was click
+2019-03-03 20:36:21,134-BasePage-INFO-找到页面元素--('css selector', '#pt div > a:nth-child(7)')
+2019-03-03 20:36:21,236-BasePage-INFO-找到的文本fd
+2019-03-03 20:36:21,281-BasePage-INFO-找到页面元素--('xpath', "//div[@id='pgt']/a")
+2019-03-03 20:36:21,313-BasePage-INFO-Success find float 
+2019-03-03 20:36:21,345-BasePage-INFO-找到页面元素--('css selector', '.poll a')
+2019-03-03 20:36:21,787-BasePage-INFO-Success The element was click
+2019-03-03 20:36:21,795-BasePage-INFO-Success switch to window
+2019-03-03 20:36:24,851-BasePage-INFO-找到页面元素--('id', 'subject')
+2019-03-03 20:36:25,043-BasePage-INFO-输入的内容最喜欢吃什么？
+2019-03-03 20:36:25,073-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2019-03-03 20:36:25,155-BasePage-INFO-输入的内容苹果
+2019-03-03 20:36:25,180-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2019-03-03 20:36:25,246-BasePage-INFO-输入的内容香蕉
+2019-03-03 20:36:25,277-BasePage-INFO-找到页面元素--('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2019-03-03 20:36:25,353-BasePage-INFO-输入的内容橘子
+2019-03-03 20:36:25,391-BasePage-INFO-找到页面元素--('id', 'postsubmit')
+2019-03-03 20:36:25,520-BasePage-INFO-Success The element was click
+2019-03-03 20:36:25,530-BasePage-INFO-Success switch to window
+2019-03-03 20:36:27,776-BasePage-INFO-找到页面元素--('css selector', '#pt div > a:nth-child(9)')
+2019-03-03 20:36:27,816-BasePage-INFO-找到的文本最喜欢吃什么？
+2019-03-03 20:36:27,846-BasePage-INFO-找到页面元素--('css selector', '#option_1')
+2019-03-03 20:36:27,900-BasePage-INFO-Success The element was click
+2019-03-03 20:36:27,929-BasePage-INFO-找到页面元素--('css selector', '.pinf strong')
+2019-03-03 20:36:27,953-BasePage-INFO-找到的文本单选投票
+2019-03-03 20:36:27,988-BasePage-INFO-找到页面元素--('css selector', '#pollsubmit')
+2019-03-03 20:36:29,022-BasePage-INFO-Success The element was click
+2019-03-03 20:36:29,083-BasePage-INFO-找到页面元素--('css selector', '.pvt')
+2019-03-03 20:36:29,186-BasePage-INFO-找到页面元素--('css selector', '.pcht  tbody > tr > td:nth-child(2)')
+2019-03-03 20:36:29,218-BasePage-INFO-找到页面元素--('css selector', '#thread_subject')
+2019-03-03 20:36:29,243-BasePage-INFO-找到的文本最喜欢吃什么？
+2019-03-03 20:36:29,260-BasePage-INFO-找到的文本1.  苹果
+2019-03-03 20:36:29,277-BasePage-INFO-找到的文本100.00% (1)
+2019-03-03 20:36:29,294-BasePage-INFO-找到的文本2.  香蕉
+2019-03-03 20:36:29,313-BasePage-INFO-找到的文本0.00% (0)
+2019-03-03 20:36:29,331-BasePage-INFO-找到的文本3.  橘子
+2019-03-03 20:36:29,348-BasePage-INFO-找到的文本0.00% (0)
+2019-03-03 20:36:32,413-BasePage-INFO-找到页面元素--('link text', '退出')
+2019-03-03 20:36:32,800-BasePage-INFO-Success The element was click
+2019-03-03 20:36:35,625-BasePage-INFO-找到页面元素--('css selector', '#ls_fastloginfield_ctrl')
+2019-03-03 20:36:35,654-BasePage-INFO-找到的文本用户名
+2019-03-03 20:36:35,656-BrowserEngine-INFO-Now,Close and quit the browser
